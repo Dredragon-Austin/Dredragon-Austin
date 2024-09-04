@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=700&size=24&pause=1000&color=02F73D&center=true&repeat=false&width=435&lines=Fullstack+Dev;Minecraft+datapack+Dev;Loplay+MinecraLove+to+ft+and+manage+server;Good+at+finding+stuff" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=1A80F7&width=435&lines=Fullstack+developer;Minecraft+datapack+developer;Love+to+play+minecraft;Like+dragon%F0%9F%90%B2" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -26,22 +20,8 @@
 </p>
 
 <br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
 <!-- Streak Stat -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dredragon-Austin&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
-<br/>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dredragon-Austin&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+    <br/>
+</p>
