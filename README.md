@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=700&size=24&pause=1000&color=02F73D&center=true&repeat=false&width=435&lines=Fullstack+Dev;Minecraft+datapack+Dev;Love+to+play+Minecraft+and+manage+server;Good+at+finding+stuff" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=700&size=24&pause=1000&color=02F73D&center=true&repeat=false&width=435&lines=Fullstack+Dev;Minecraft+datapack+Dev;Loplay+MinecraLove+to+ft+and+manage+server;Good+at+finding+stuff" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -42,5 +42,6 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-
+<!-- Streak Stat -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dredragon-Austin&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
 <br/>
