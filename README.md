@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=1A80F7&width=435&lines=Fullstack+developer;Minecraft+datapack+developer;Love+to+play+minecraft;Like+dragon%F0%9F%90%B2" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&duration=6000&pause=1000&color=1383F7&center=true&width=435&lines=Dredragon+aka+Mana+Lord;Fullstack+developer;Minecraft+datapack+developer;C%2B%2B+beginners+;Love+to+play+Minecraft" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
