@@ -1,8 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&duration=6000&pause=1000&color=1383F7&center=true&width=435&lines=Dredragon+aka+Mana+Lord;Fullstack+developer;Minecraft+datapack+developer;C%2B%2B+beginners+;Love+to+play+Minecraft" 
 
-https://github.com/user-attachments/assets/412e9b99-b4bd-4454-a914-657cb23af6e0
-
 alt="Typing SVG" /></a>
 </p>
 
